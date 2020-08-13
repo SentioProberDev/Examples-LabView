@@ -17,6 +17,8 @@
 			<Item Name="StatusBits.vi" Type="VI" URL="../StatusBits.vi"/>
 			<Item Name="TerminationChecker.vi" Type="VI" URL="../TerminationChecker.vi"/>
 		</Item>
+		<Item Name="MoveChuck.vi" Type="VI" URL="../MoveChuck.vi"/>
+		<Item Name="MoveContactSeparation.vi" Type="VI" URL="../MoveContactSeparation.vi"/>
 		<Item Name="NextDieMove.vi" Type="VI" URL="../NextDieMove.vi"/>
 		<Item Name="NextSubDieMove.vi" Type="VI" URL="../NextSubDieMove.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
